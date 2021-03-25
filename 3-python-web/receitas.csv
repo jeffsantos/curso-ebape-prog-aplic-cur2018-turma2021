@@ -1,0 +1,506 @@
+id_projeto,id_receita,ds_tipo_arrecadacao,ds_receita,vl_unitario,nr_quantidade,vl_receita,fl_fonte_recurso,tp_recurso,nm_instituicao,fl_orgao_publico
+2949,542,,"Recurso FAPERGS - EDITAL FAPERGS 02/2018 - AUXÍLIO PARA ORGANIZAÇÃO DE EVENTOS - AOE",13494.60,1.00,13494.60,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+2970,549,,"Recurso destinado à capital e custeio referente ao Edital Universal do CNPq de 2014.",28000.00,1.00,28000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+602,83,Inscrição,"Inscrição ouvintes",30.00,250.00,7500.00,A,,,
+602,84,Inscrição,"Inscrição trabalhos",50.00,50.00,2500.00,A,,,
+649,88,,"Recurso para aquisição de capital e material de consumo",17000.00,1.00,17000.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+866,124,,"Recurso a ser pago para desenvolvimento de prestação de serviço",266623.85,1.00,266623.85,T,E,"Fundação de Apoio à Universidade do Rio Grande",S
+982,139,Inscrição,"Aluno Regular",150.00,1000.00,150000.00,A,,,
+982,140,Inscrição,"Aluno Especial do PPGDJS",150.00,400.00,60000.00,A,,,
+982,141,Inscrição,"Eventos científicos organizados pelo Programa de Pós-Graduação em Direito e Justiça Social da FURG",30.00,1000.00,30000.00,A,,,
+1146,150,,"Equipamento já disponível",12000.00,1.00,12000.00,I,,,
+1146,151,,"Material de consumo",220.00,1.00,220.00,I,,,
+1304,182,Inscrição,"Inscrição do curso",35.00,200.00,7000.00,A,,,
+1309,184,,"R$ 9.900,00 - CapitalR$ 21.100 - Custeio",30000.00,1.00,30000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+1326,191,Inscrição,"Inscrição aproximada",20.00,60.00,1200.00,A,,,
+1348,200,,"Envio de materiais de consumo a serem utilizados no desenvolvimento do projeto, tais como chapas e barras metálicas e poliméricas, material de preparação metalográfica, filamentos para o MEV do Ceme-Sul, reagentes químicos.",0.00,1.00,0.00,T,N,"Universidade Federal de Uberlândia",S
+1348,201,,"Pagamento de bolsistas envolvidos no projeto",244800.00,1.00,244800.00,T,E,"Universidade Federal de Uberlândia",S
+1353,204,,"Investimento para o pagamento de bolsa dos pesquisadores.",193536.00,1.00,193536.00,T,E,"Vetorial Informática e Serviços de  Internet",N
+1368,206,,"Edital ARD 01/2017",17000.00,1.00,17000.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+1374,207,,"Os materiais permanentes e de consumo para o desenvolvimento deste projeto estão disponíveis no Laboratório de Micobactérias da Universidade Federal do Rio Grande, e não acarretarão custos adicionais as unidades educacionais envolvidas.",0.00,1.00,0.00,T,N,"Hospital Universitário Miguel Riet Correa Jr",S
+1374,208,,"Material permanente - Equipamentos já disponíveis no laboratório de micobactérias da Universidade Federal do Rio Grande.",0.00,1.00,0.00,I,,,
+1381,209,Inscrição,"Verba Total do Projeto",29944.00,1.00,29944.00,A,,,
+1455,225,,"Apoio financeiro para a realização do I Simpósio Gaúcho de Toxicologia e Saúde Ambiental",5000.00,1.00,5000.00,T,E,"Superintendência do Porto do Rio Grande",S
+1455,226,Inscrição,"Inscrição de alunos de profissionais",90.00,30.00,2700.00,A,,,
+1455,227,Inscrição,"Inscrição de alunos de graduação",100.00,71.00,7100.00,A,,,
+1455,228,Inscrição,"Insccrição de alunos de pós-graduação",70.00,20.00,1400.00,A,,,
+1612,263,,"bolsa e taxa de bancada",105600.00,1.00,105600.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+1635,265,,"Custeio e capital- Edital Pesquisador Gaúcho 2017",28000.00,1.00,28000.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+1635,266,,"Bolsa produtividade",42000.00,1.00,42000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+1637,267,,"Montante Total",94090.92,1.00,94090.92,T,E,"Vetorial Informática e Serviços de  Internet",N
+1655,268,,"Capital, Custeio e Bolsas",1498655.94,1.00,1498655.94,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+1657,269,,"Serão disponibilizados 11000,00 dólares para compra de material de consumo e 1000,00 dólares para compra de equipamento",12000.00,1.00,12000.00,T,E,"International Foundation for Science",N
+1661,270,,"Recurso aprovado no edital Universal - CNPq - 2014",59877.00,1.00,59877.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+1663,271,,"EDITAL CAPES N° 31/ 2013",80000.00,1.00,80000.00,T,E,"Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",S
+1667,272,,"Material de consumo",100000.00,1.00,100000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+1734,277,,"Recursos de custeio.",47400.00,1.00,47400.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+1735,278,,"Recursos de custeio",47400.00,1.00,47400.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+1821,282,,"infraestrutura basica do laboratorio",250000.00,1.00,250000.00,I,,,
+1936,294,,"Apoio curso de Psicologia",200.00,1.00,200.00,I,,,
+2978,557,,"Concessão de apoio financeiro a projeto de pesquisa previsto no termo de outorga nº 18/2551-0000528-2 referente ao edital FAPERGS/CAPES 04/2018 - PROGRAMA DE BOLSAS DE FIXAÇÃO DE DOUTORES - DOCFIX, sob coordenação do Prof. Gilberto Fillmann",41356.00,1.00,41356.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+1977,298,,"Material permanente - Equipamentos já disponíveis no laboratório de micobactérias",0.00,1.00,0.00,I,,,
+1977,299,,"A execução do projeto será realizada com os recursos que já foram adquiridos através de bolsa de produtividade CNPq e por projetos de pesquisa",0.10,1.00,0.10,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+2043,309,,"Recursos do adicional de bancada da bolsa de produtividade em pesquisa (Nível 1A) do proponente.",31200.00,1.00,31200.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+2077,321,,"em reais",16498.50,1.00,16498.50,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+2997,563,,"Recurso repassado via TED",286000.00,1.00,286000.00,T,E,"Ministério do Meio Ambiente",S
+2188,355,,"Material de consumo",60000.00,1.00,60000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+2201,356,,"Recurso fornecido pela FAPERGS referente ao auxílio recém doutor",17000.00,1.00,17000.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+2334,371,,"Recurso referente ao PROGRAMA PRIMEIROS PROJETOS - ARD/PPP 2014",24691.60,1.00,24691.60,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+2395,382,,"verba para o cumprimeto da Proposta via PROEXC",10000.00,1.00,10000.00,I,,,
+2409,385,,"edital PROEXC 01 2018",5000.00,1.00,5000.00,I,,,
+2990,559,"Prestação de Serviço",Consultoria,1000.00,4.00,4000.00,A,,,
+2439,398,,"Apoio Financeiro",2000.00,1.00,2000.00,I,,,
+2442,400,Inscrição,"Taxa para cobrir custos com materiais do curso, coffee-break e outras despesas",25.00,40.00,1000.00,A,,,
+2443,401,,"3390-36  Contratação de pessoa física; Contratação de ilustrador para a criação visual do livro.",6500.00,1.00,6500.00,I,,,
+2443,402,,"Contratação de pessoa jurídica (3390-39): Para a filmagem profissional e edição da língua de sinais",2500.00,1.00,2500.00,I,,,
+2443,403,,"Material de consumo 3390-30",1000.00,1.00,1000.00,I,,,
+2468,405,,"Orçamento Unidade ILA",822.78,1.00,822.78,I,,,
+2491,406,,"EDITAL DE FOMENTO DE AÇÕES DE EXTENSÃO UNIVERSITÁRIA PROEXC 01/2018",10000.00,1.00,10000.00,I,,,
+2630,439,,"Edital 01/2018",30000.00,1.00,30000.00,T,E,"Fundação SOS Mata Atlântica",N
+2632,440,,"Disponibilização da infraestrutura da torre de metal e dos seguintes sensores:1 Radiômetro Líquido CNR4-L34 (PAR) Kipp/Zonen1 Anemômetro sônico 3D - CSAT3 / Campbell Scientific1 Anemômetro de Hélice RM Young 05103-45-51 Piranômetro CMP3-L12 Kippe Zonen1 Analisador de gás infravermelho LI-7200 / LICOR  1 IRGA / Campbell Scientific1 Barômetro - CS106 - Vaisala1 Termo-higrômetro - CS215-L34/ Campbell ScientificBaterias",0.00,1.00,0.00,T,N,"Instituto Nacional de Pesquisas Espaciais",S
+2632,441,,"Diárias para vinda e estadia do Dr. Ronald Buss",6000.00,1.00,6000.00,T,E,"Instituto Nacional de Pesquisas Espaciais",S
+2632,442,,"Pagamento Serviço de Terceiros",1400.00,1.00,1400.00,I,,,
+2644,443,,"Aporte Financeiro",294033.00,1.00,294033.00,T,E,"Companhia Riograndense de Saneamento",S
+2774,472,Inscrição,"Seminário Interfaces Pedagógicas",25.00,312.00,7800.00,A,,,
+2887,511,,"SIGA/Gabinete da reitora",2350.00,1.00,2350.00,I,,,
+2906,520,,"Material de consumo e serviços de terceiros para manutenção de equipamentos.",41836.01,1.00,41836.01,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+2992,561,,"Programa de Excelência Acadêmica (PROEX)- PPGOB",5000.00,1.00,5000.00,I,,,
+3091,592,,"Recurso repassado à FAURG (interveniente), que realizará a administração financeira do projeto celebrado entre a FURG (Convenente) e a Indústrias Alimentícias Leal Santos (Concedente). O recurso deverá ser repassado à FAURG pela Leal Santos, em parcelas  mensais a partir de Dez/2018 até o fim Nov/2021.",481300.00,1.00,481300.00,T,E,"Indústrias Alimentícias Leal Santos Ltda",N
+3104,594,,"Montante pago para realização da totalidade do projeto",318931.20,1.00,318931.20,T,E,"CODEX REMOTE CIÊNCIAS ESPACIAIS E IMAGENS DIGITAIS LTDA",N
+3123,599,"Prestação de Serviço","Consultoria Em Engenharia Quimica",1.00,1.00,1.00,A,,,
+3138,610,,"Oriundo do Edital Universal CNPQ 028/2018",12240.00,1.00,12240.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+3156,621,,"desenvolvimento da plataforma",60000.00,1.00,60000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+3177,622,Inscrição,"Estudante de graduação não sócio da ABLimno",50.00,50.00,2500.00,A,,,
+3177,623,Inscrição,"Estudante de graduação sócio da ABLimno",40.00,10.00,400.00,A,,,
+3177,624,Inscrição,"Estudante de pós-graduação não sócio da ABLimno",150.00,70.00,10500.00,A,,,
+3177,625,Inscrição,"Estudante de pós-graduação sócio da ABLimno",120.00,40.00,4800.00,A,,,
+3177,626,Inscrição,"Profissional não sócio da ABLimno",250.00,20.00,5000.00,A,,,
+3177,627,Inscrição,"Profissional sócio da ABLimno",200.00,10.00,2000.00,A,,,
+3181,649,,"pagamento referente a prestação de serviço",89875.00,1.00,89875.00,T,E,"BRASKEM S.A.",N
+3205,653,Inscrição,"Inscrição no II Curso Básico de Oncologia",10.00,17.00,170.00,A,,,
+3225,678,,"2 bolsas mensais de quatrocentos reais pagas pela PROGEP",9600.00,1.00,9600.00,I,,,
+3237,688,Inscrição,"Inscrição para SAICC, e Minicurso",16.00,200.00,3200.00,A,,,
+3237,689,"Prestação de Serviço",DevOpers,450.00,1.00,450.00,A,,,
+3237,690,"Prestação de Serviço",SCADI,450.00,1.00,450.00,A,,,
+3237,691,,"Caixa do PET C3",1120.00,1.00,1120.00,I,,,
+3288,713,,"Capital, custeio e bolsas.",1682167.00,1.00,1682167.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+3290,715,,"O recurso será liberado sob a forma de um TERMO DE EXECUÇÃO DESCENTRALIZADA firmado entre a FURG e a Secretaria de Mobilidade Social, do Produtor Rural e do Cooperativismo, do Ministério da Agricultura Pecuária e Abastecimento, via programa PROORGÂNICO. O recurso será liberado em duas parcelas, a primeira em dezembro de 2018 no valor de R$ 15.000,00 e a segunda em Março de 2019 no valor de R$ 11.500,00.",26500.00,1.00,26500.00,T,E,"Laboratório Nacional Agropecuário no Rio Grande do Sul, Laboratório de Análises de Resíduos de Pesticidas e Medicamentos Veterinários",S
+3359,731,"Prestação de Serviço","Cotas de Patrocínio do Evento",20000.00,10.00,200000.00,A,,,
+3408,736,,"2 bolsas mensais de quatrocentos reais pagas pela PROGEP",9600.00,1.00,9600.00,I,,,
+3466,752,,"O projeto faz parte de um programa no âmbito do governo federal MEC/SEB e será desenvolvido com um conjunto de 57 municípios do Estado do Rio Grande do Sul.",198750.00,1.00,198750.00,T,E,"Ministério da Educação",S
+3478,753,"Prestação de Serviço","Arrecadação com as saídas das embarcações",937931.03,1.00,937931.03,A,,,
+3549,754,,"Recursos Próprios",56939.54,1.00,56939.54,I,,,
+3646,756,,Consumo,3000.00,1.00,3000.00,I,,,
+3646,757,Inscrição,"Pagamento de Taxas de Inscrição de Professores/Pesquisadores",200.00,36.00,7200.00,A,,,
+3646,758,Inscrição,"Pagamento de Taxas de Inscrição de alunos de Pós-Graduação",130.00,20.00,2600.00,A,,,
+3646,759,Inscrição,"Isenção de taxas para alunos de Graduação",0.00,25.00,0.00,A,,,
+3646,760,,"Recurso obtido para custeio do evento, diárias e passagens de palestrantes e aluguel de ônibus para translado de POrto Alegre para Rio Grande.",15000.00,1.00,15000.00,T,E,"Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",S
+3674,762,Inscrição,"Matricula curso",100.00,44.00,4400.00,A,,,
+3688,763,,"Capital, custeio e bolsas.",1108880.00,1.00,1108880.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+3753,778,,"Bolsa PDE",4000.00,1.00,4000.00,I,,,
+3753,779,,"Pagamento de 1 bolsa PDE por 10 meses, no valor de R$400,00 para 12h semanais.",4000.00,1.00,4000.00,C,,,
+3778,782,,"Relativo a edital universal 2018.R$ 5.000,00 de capital e R$ 10.000,00 de custeio.",15000.00,1.00,15000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+3884,792,,"Material de consumo",80.00,1.00,80.00,I,,,
+4317,835,,"Capital R$ 15.000 ,00Consumo R$ 6.000,00Bolsa R$ 14.400,00",35400.00,1.00,35400.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+4517,841,Inscrição,"Inscrições para participação no evento",20.00,100.00,2000.00,A,,,
+4561,860,,"Valor destinado a passagens e diárias dos palestrantes . O valor também custeará a compra de materiais como banners, cartazes, camisetas etc.",10000.00,1.00,10000.00,T,E,"Universidade Federal do Rio Grande",S
+4660,889,,"Impressão dos baralhos",525.00,1.00,525.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+4678,891,,"Não há recurso envolvido",0.00,1.00,0.00,C,,,
+4678,892,,"Recurso do Edital Universal 2016, para análise metagenômica de organismos aderidos a plásticos superficiais nos oceanos.",28500.00,1.00,28500.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+4680,893,,"Auxílio financeiro aprovada em Edital Universal 2018Custeio: R$5.050,00Capital: R$18.950,00",24000.00,1.00,24000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+4763,930,,"Os recursos são para consumo, capital e pessoa jurídica e física",940000.00,1.00,940000.00,T,E,"Ministério da Ciência, Tecnologia e Inovação",S
+4808,944,Inscrição,GRU,80.00,400.00,32000.00,A,,,
+4845,948,,"Bolsas e Materiais",4400.00,1.00,4400.00,I,,,
+4891,958,,"Os equipamentos permanentes necessários para a realização desse projeto serão utilizados no laboratório de Biologia Molecular pertencente à Faculdade de Medicina da Universidade Federal do Rio Grande (FURG).",5000.00,1.00,5000.00,I,,,
+4891,959,,"Os equipamentos permanentes necessários para a realização desse projeto serão utilizados no laboratório de Biologia Molecular pertencente à Faculdade de Medicina da Universidade Federal do Rio Grande (FURG) e do laboratório de Virologia Humana da Universidade Federal do Rio de Janeiro (UFRJ).",5000.00,1.00,5000.00,C,,,
+4894,960,,"DESPESAS TOTOAIS",6295.00,1.00,6295.00,I,,,
+4896,961,,"Bolsas para alunos",1600.00,1.00,1600.00,I,,,
+4930,963,,"Apoio curso de Psicologia",200.00,1.00,200.00,I,,,
+4964,969,,"Material consumível",43000.00,1.00,43000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+4978,972,,"Materiais de consumo e para identificação da equipe e passagens hidroviárias.",21632.00,1.00,21632.00,T,E,"Prefeitura Municipal de São José do Norte - Secretaria Municipal da Saúde e Assistência Social",S
+4980,974,,"Verba de compensação ambiental da instalação do estaleiro EBR",110000.00,1.00,110000.00,T,E,"Estaleiros do Brasil - LTDA",N
+5028,978,,"Pagamento de pessoa jurídica e bolsista",8000.00,1.00,8000.00,I,,,
+5079,987,,"Bolsas PDJ, DR, IC",280512.00,1.00,280512.00,T,E,"Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",S
+5043,983,,"Auxílio Financeiro ao Estudante",2400.00,1.00,2400.00,I,,,
+5079,988,,"Custeio: R$ 763.340,00Capital: R$ 852.005,00",1615345.00,1.00,1615345.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+5209,1023,,"R$ 77.000,00 capitalR$ 42.850,00 custeio",119850.00,1.00,119850.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+5224,1029,,"Auxílio financeiro ao pesquisador ( transporte e alimentação)",250.00,1.00,250.00,I,,,
+5232,1031,,"Taxa de bancada de R$ 400,00 depositada mensalmente pelo período de vigência do projeto",9600.00,1.00,9600.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+5269,1036,,"Edital Universal CNPq 4066991/2016-0- Desenvolvimento e caracterização físico-química de sistemas lipossomais contendo genisteína para uso na terapia contra gliomas. Capital e Custeio",30000.00,1.00,30000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+5279,1037,,"manutenção de equipamentos, aquisição de novos,conserto, instalação e adequação de equipamentos.Materiais de Consumo para a manutenção da Coleção de Cultivos e sua divulgação",130000.00,1.00,130000.00,T,E,"Financiadora de Estudos e Projetos",S
+5310,1044,,"R$ 16.900,00 para custeioR$ 6.600,00 para bolsarecurso será utilizado através de cartão pesquisa",23500.00,1.00,23500.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+5367,1065,,"Insumos para preparação de pastas",500.00,1.00,500.00,I,,,
+5367,1066,,"Transporte de estudantes para aldeia indígena",300.00,1.00,300.00,I,,,
+5559,1128,,"Pagamento de Bolsas",4000.00,1.00,4000.00,I,,,
+5594,1136,,"Bolsa de produtividade",39000.00,1.00,39000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+5644,1145,,"Recurso financeiro aprovado através do Edital Universal 2018",30000.00,1.00,30000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+5696,1155,,"Recursos para aquisição de equipamentos e custeio referente à bolsa de produtividade em pesquisa do coordenador",38152.37,1.00,38152.37,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+9041,2034,Matricula,"Pagamento do Sindireceita",759850.00,1.00,759850.00,A,,,
+5719,1180,,"Recursos para despesas de capital e outras despesas correntes associadas ao Programa de Monitoramento Rede Rio Doce Mar.",15842042.72,1.00,15842042.72,T,E,"Fundação RENOVA",N
+5719,1181,,"Recursos para despesas de capital e outras despesas correntes associadas aos anos 2 e 3 do Programa de Monitoramento Rede Rio Doce Mar.",30714184.72,1.00,30714184.72,T,E,"Fundação RENOVA",N
+5740,1183,,"Pesquisa e desenvolvimento e produtos produzidos pelo processo MIM.",180000.00,1.00,180000.00,T,E,"Tecno-MIM Industria de Injetados Ltda",N
+9053,2042,"Prestação de Serviço","Análises de água",65.00,9.00,585.00,A,,,
+5802,1220,,"valor correspondente à bolsa de monitoria do acadêmico selecionado.",400.00,1.00,400.00,T,E,"Universidade Federal do Rio Grande",S
+5831,1221,,"Ponteiras livre de DNase e RNase",1159.98,1.00,1159.98,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+5831,1222,,"Eppendorf 0,2mL sem DNase e RNase",533.00,1.00,533.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+5831,1223,,Oligonucleotídeos,2900.00,1.00,2900.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+5831,1224,,"Trizol Reagent",1750.00,1.00,1750.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+5831,1225,,"Meio RPMI-1640 pó",480.00,1.00,480.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+5831,1226,,"Antibiótico PSF (Penicilina, Estreptomicina,Fungizona)",350.00,1.00,350.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+5831,1227,,"Strips com tampas para reações de qPCR",1250.00,1.00,1250.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+5831,1228,,"Master mix para qPCR",4490.02,1.00,4490.02,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+5831,1229,,"Kit cDNA Reverse Transcription",6377.00,1.00,6377.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+5831,1230,,"Centrífuga p/ microtubos eppendorf de1,5/ 2,0 mL",4500.00,1.00,4500.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+5831,1231,,"Micropipetador 0,5-10ul",1600.00,1.00,1600.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+5831,1232,,"Micropipetador 200ul-1000 uL",2500.00,1.00,2500.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+5831,1233,,"Micropipetador 20-200 ul",1800.00,1.00,1800.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+5929,1260,,"Gastos com coffee-break e brindes comemorativos",5000.00,1.00,5000.00,I,,,
+5864,1243,,"Edital FAPERGS 04/2019 - Recém-Doutor",17478.40,1.00,17478.40,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+6011,1294,,insumos,50000.00,1.00,50000.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+6019,1299,Inscrição,"Valores previstos com as inscrições dos participantes discentes",25.00,50.00,1250.00,A,,,
+6019,1300,Inscrição,"Valores previstos com as inscrições dos participantes gestores",30.00,50.00,1500.00,A,,,
+6059,1324,,"Disponibilização de sala de aula - ESANTAR",600.00,1.00,600.00,C,,,
+6059,1325,,"Transporte para os participantes",300.00,1.00,300.00,C,,,
+6054,1322,,"Quatro cotas de bolsas de três meses cada (out a dez) no valor mensal de R$400,00",4800.00,1.00,4800.00,I,,,
+6059,1323,,"Deslocamento do ministrante do curso e pagamento de diárias para sua estadia.",17000.00,1.00,17000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+6066,1328,,"Prestação de serviço",5.00,1.00,5.00,I,,,
+6090,1339,,"Recursos provenientes da PMSAP para financiar a segunda fase do projeto de pesquisa na Secretaria da Saúde.",15331.91,1.00,15331.91,T,E,"Prefeitura Municipal de Santo Antônio da Patrulha",S
+6090,1340,,"Recursos provenientes da PMSAP para financiar o projeto de pesquisa na Secretaria da Saúde. Será pago em 10 parcelas, sendo a primeira 1 dia após a assinatura do Convênio.",62500.20,1.00,62500.20,T,E,"Prefeitura Municipal de Santo Antônio da Patrulha",S
+6093,1350,,"Recurso fornecido via TED 7766 para execução da fase II do Ava Polos.",109480.00,1.00,109480.00,T,E,"Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",S
+6093,1351,,"Recursos destinados para a execução do projeto.",294400.00,1.00,294400.00,T,E,"Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",S
+6093,1352,,"Serviço de Terceiros - Pessoa Jurídica - Ressarcimento a FAURG",14720.00,1.00,14720.00,I,,,
+6106,1361,"Prestação de Serviço","Serviço de Microscopia Confocal",200.00,75.00,15000.00,A,,,
+6106,1362,"Prestação de Serviço","Serviço de Microscopia Eletrônica de Varredura e Espectroscopia de Energia Disersiva",200.00,400.00,80000.00,A,,,
+6106,1363,Inscrição,"Inscrição EMEC",25.00,200.00,5000.00,A,,,
+6106,1364,"Prestação de Serviço","Preparo de amostras para a utilização nas técnicas de microscopia",50.00,60.00,3000.00,A,,,
+6106,1365,"Prestação de Serviço","Homogeneizador de Alta Pressão",200.00,200.00,40000.00,A,,,
+6106,1366,"Prestação de Serviço","Serviço de Difração de Raios-X: obtenção de dados utilizando a técnica para amostras sólidas ou em pó",120.00,500.00,60000.00,A,,,
+6106,1367,"Prestação de Serviço","Serviço de Microscopia Eletrônica de Transmissão",200.00,400.00,80000.00,A,,,
+6107,1368,"Prestação de Serviço","análise de RMN",93.82,3040.00,285212.80,A,,,
+6107,1369,"Prestação de Serviço","análise de CG-MS/MS",55.50,4100.00,227550.00,A,,,
+6107,1370,"Prestação de Serviço","análise de IRMS",42.24,13992.00,591022.08,A,,,
+6107,1371,"Prestação de Serviço","análise de ICP-MS",2.43,76806.00,186638.58,A,,,
+6107,1372,"Prestação de Serviço","análise de BET",43.93,2112.00,92780.16,A,,,
+6107,1373,"Prestação de Serviço","análise de TGA/DSC",68.61,1056.00,72452.16,A,,,
+6107,1374,Inscrição,"Cursos do CIA",25.00,200.00,5000.00,A,,,
+6107,1375,"Prestação de Serviço","análise de AAS",1.60,76033.00,121652.80,A,,,
+6150,1396,,"O aporte orçamentário e financeiro viabilizará a oferta do Curso Ciência é Dez. O montante inicialmente previsto e aprovado pelo órgão de fomento poderá sofrer alteração ao longo da execução do projeto.",171288.40,1.00,171288.40,T,E,"Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",S
+6232,1426,,"recurso ganho a traves de edital universal",30000.00,1.00,30000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+6157,1401,,"Diárias = R$ 5400,00Bolsas = R$ 122100,00Material de Consumo = R$ 24210,27Passagens = R$ 6010,00Outros - Pessoa Física = R$ 7661,52Outros - Pessoa Jurídica = R$ 12848,48Equipamento e Mat. Permanente = R$ 61000,00Ressarcimento FURG = R$  11645,97Ressarcimento FAURG = R$  13631,97Ressarcimento Unidade (IO) = R$ 8131,19",272639.40,1.00,272639.40,T,E,"Fundação de Apoio à Universidade do Rio Grande",N
+6170,1413,,"Desenvolvimento de ações culturais",282554.15,1.00,282554.15,I,,,
+6227,1422,,"Taxa administrativa da FAURG (5% do valor referente ao recurso concedido)",2250.00,1.00,2250.00,I,,,
+6227,1423,,"Valor em espécie, depositado em conta corrente do Projeto no Banco do Brasil e gerido pela Fundação de Apoio à Universidade Federal do Rio Grande - FAURG.",45000.00,1.00,45000.00,T,E,"Serviço de Apoio às Micro e Pequenas Empresas do Estado do Rio Grande do Sul",N
+6232,1425,,"a secretaria de saude ajudaria ao projeto proporcionando estagiários para fazer as entrevistas",0.00,1.00,0.00,T,N,"Prefeitura Municipal do Rio Grande - Secretaria Municipal da Saúde",S
+6253,1437,,"Recursos advindos do projeto",2188657.80,1.00,2188657.80,T,E,"Petróleo Brasileiro S/A.",N
+6265,1446,,"CHAMADA PÚBLICA MEC-MCTIC 01/2019 - PROGRAMA CIÊNCIA NA ESCOLA - SELEÇÃO DE REDES PARA O APRIMORAMENTO DO ENSINO DE CIÊNCIAS NA EDUCAÇÃO BÁSICA",3300000.00,1.00,3300000.00,T,E,"Ministério da Educação",S
+6307,1460,,"Recurso aprovado junto ao Ministério da Ciência, Tecnologia, Inovações e Comunicações para a aquisição de material permanente, de consumo e outras despesas que possibilitem a execução do projeto",1619649.00,1.00,1619649.00,T,E,"Ministério da Ciência, Tecnologia e Inovação",S
+6307,1461,,"Rendimentos de aplicação financeira do projeto",150000.00,1.00,150000.00,T,E,"Fundação de Apoio à Universidade do Rio Grande",N
+6316,1464,,"recursos destinados a Diárias, Passagens, Serviços P.F e equipamentos permanentes.",18520.00,1.00,18520.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+6328,1472,,"Recurso para adequação do NOC Atlantico Sul às atividades do projeto, locação de mão de obra, e despesas para viabilizar os emqarques para coleta de dados",1050000.00,1.00,1050000.00,T,E,"Serviço geológico do Brasil",S
+6352,1476,,"Duzentos e oitenta mil novecentos e oito reais e setenta e seis centavos",280908.76,1.00,280908.76,T,E,"Fundação de Apoio à Universidade do Rio Grande",N
+6408,1501,,"Recursos a captar de patrocinadores para a 46ª Feira do Livro",150000.00,1.00,150000.00,T,E,"Patrocínio - recursos a captar",S
+6426,1516,Inscrição,"Apresentador de Comunicação",25.00,60.00,1500.00,A,,,
+6426,1517,,"Orçamento Unidade ILA",6526.20,1.00,6526.20,I,,,
+6461,1528,Inscrição,"Inscrição para participação",25.00,465.00,11625.00,A,,,
+6470,1535,"Prestação de Serviço","Projeto TerraMar",89300.00,1.00,89300.00,A,,,
+6493,1562,Inscrição,"Inscrições via SINSC para participação do evento como ouvinte",10.00,250.00,2500.00,A,,,
+6493,1563,Inscrição,"Inscrições via SINSC para participação do evento para minicursos",5.00,250.00,1250.00,A,,,
+6493,1564,Inscrição,"Inscrições via SINSC para participação do evento para publicação de resumos",10.00,50.00,500.00,A,,,
+6493,1565,,Patrocínio,4000.00,1.00,4000.00,T,E,JCB,N
+6496,1567,,"Fincanciado pela empresa",88300.00,1.00,88300.00,T,E,"Transnorte Transportes Aquaviários Ltda.",N
+6505,1574,,"Financiamento para capital e custeio de projeto de pesquisa",1030267.16,1.00,1030267.16,T,E,"Petróleo Brasileiro S/A.",S
+6530,1597,,"Recurso aprovado no edital FAPERGS Edital 05/2019 Programa Pesquisador Gaúcho - PqG",30000.00,1.00,30000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+6531,1598,,"Diárias = R$ 960,00Passagens = R$ 540,00Equipamentos e Material Permanente = R$ 14.500,00",16000.00,1.00,16000.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+6532,1599,Inscrição,"Inscrição de alunos de Graduação",15.00,20.00,300.00,A,,,
+6532,1600,Inscrição,"Inscrição de alunos de Pós-Praduação",50.00,16.00,800.00,A,,,
+6532,1601,Inscrição,"Inscrição de professores e pesquisadores",150.00,5.00,750.00,A,,,
+6575,1627,Inscrição,"Inscrição individual",150.00,20.00,3000.00,A,,,
+6575,1628,"Prestação de Serviço",Mensalidades,100.00,180.00,18000.00,A,,,
+6620,1632,,"Patrocínio para custear o evento",400.00,1.00,400.00,T,E,"Steq Comércio e Representações",N
+6620,1633,,"Patrocínio para o evento",800.00,1.00,800.00,T,E,"Alesco (ALBR Indústria e Comércio Ltda.)",N
+6620,1634,Inscrição,"Taxa de inscrição",200.00,32.00,6400.00,A,,,
+6671,1637,,"Valor aportado pelo INCT Ciências Forenses",8000.00,1.00,8000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+6702,1644,,"R$ 57.600,00 - Bolsa de Produtividade em Pesquisa - Nível 1D (Proponente)R$ 48.000,00 - Taxa de bancada para uso em Capital e/ou Custeio (com rubrica a ser definida pelo pesquisador)",105600.00,1.00,105600.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+6707,1645,,"Fincanciado pela empresa",88300.00,1.00,88300.00,T,E,"Transnorte Transportes Aquaviários Ltda.",N
+6735,1647,,"Recursos para pesquisa científica",299920.00,1.00,299920.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+6736,1648,,"Capital (R$ 5400) e custeio (R$ 24500)",29900.00,1.00,29900.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+7007,1684,,"Recurso do Plano",120000.00,1.00,120000.00,T,E,"Prefeitura Municipal do Rio Grande - Secretaria de Município de Administração",S
+6942,1670,,"Acesso ao banco de dados do Pescarte (10% do valor de investimento)",780000.00,1.00,780000.00,C,,,
+6942,1671,,"Estrutura da universidade - sala de permanência das professoras, sala disponibilizada para o projeto, energia elétrica, telefone, impressora, e material impresso.",140100.00,1.00,140100.00,C,,,
+6942,1672,,"Projeto de apoio à pesquisa marinha e pesqueira no Rio de Janeiro",1383962.90,1.00,1383962.90,T,E,"Fundo Brasileiro para a Biodiversidade",N
+6942,1673,,"Salário das Pesquisadoras",370000.00,1.00,370000.00,C,,,
+6990,1676,,"Cento e oitenta e cinto mil trezentos e quarenta e sete reais e vinte e três centavos",185347.23,1.00,185347.23,T,E,"Fundação de Apoio à Universidade do Rio Grande",N
+7094,1698,,"remuneração pela execução de projeto de pesquisa",15691.64,1.00,15691.64,T,E,"Fundação Instituto de Pesquisas Econômicas",N
+7247,1718,,"Recurso captado a partir do edital FAPERGS/CNPq jovens doutores/as (valor aproximado)",10000.00,1.00,10000.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+7305,1724,,"Custeio:R$ 9.160,00Capital:R$ 21.640,00Bolsas:  R$ 55.800,00",99960.00,1.00,99960.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+7371,1728,,"Valor correspondente à bolsa de monitoria, conforme Edital PROGRAD 03/2020.",400.00,1.00,400.00,T,E,"Universidade Federal do Rio Grande",S
+8311,1864,"Prestação de Serviço","Pagamento da terceira parcela de 10% do valor contratado no ato da entrega / apresentação do relatório parcial",42832.65,1.00,42832.65,A,,,
+7461,1757,,"Recurso proveniente de seleção do Edital FAPERGS 04/2019 recém doutor",10000.00,1.00,10000.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+8345,1867,,"4 Bolsas de Iniciação Científica Júnior para o ano de 2020",4800.00,1.00,4800.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+7471,1759,,"Edital Universal 2018",12000.00,1.00,12000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+8345,1868,,"Material de Custeio",5000.00,1.00,5000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+7560,1767,Inscrição,"Ítens de custeio",29040.00,1.00,29040.00,A,,,
+7568,1768,,"Custeio: R$ 17.400,00Capital: R$ 52.300,00Valor Global: R$ 69.700,00",69700.00,1.00,69700.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+7574,1769,,"Laboratório de Genética com termociclador, banho maria, capela, fluxo laminar, microcentrífuga, fonte de eletroforese, cuba de eletroforese, microscópio de fluorescência, geladeira, freezer.",100000.00,1.00,100000.00,C,,,
+7574,1770,,"PRONEX/FAPERGS PROCESSO No 16/2551-0000485-4",24300.00,1.00,24300.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+7594,1772,,"Recurso Oriundo do Edital FAPERGS 05/2019 - PQG",17660.00,1.00,17660.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+9022,2028,,"Recursos de custeio e capital para realização de análises laboratoriais de amostras ambientais e biológicas.",325519.00,1.00,325519.00,T,E,"Fundação RENOVA",N
+7612,1774,"Prestação de Serviço","Projetos realizados posteriormente",0.01,1.00,0.01,A,,,
+7636,1778,,"Recursos para a execução do projeto.",100000.00,1.00,100000.00,T,E,"Yara Brasil Fertilizantes - Rio Grande",N
+7712,1788,,"Recurso para consumo, capital e bolsas",450000.00,1.00,450000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+7883,1797,,"Recursos da Fundação Grupo Boticário de Proteção à Natureza destinados à contemplação de programas que visem a conservação da natureza em um valor total de R$429.111,00. Pagamento da taxa administrativa de 15% da FAURG no total de R$64.366,65. Total de repasse: R$493.477,65.",493477.65,1.00,493477.65,T,E,"Fundação Grupo Boticário de Proteção à Natureza",N
+7904,1799,,"Edital Universal 2018",12000.00,1.00,12000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+9050,2040,,"recursos para execução do projeto de automonitoramento dos bagres marinhos",150000.00,1.00,150000.00,I,,,
+9058,2044,,"Custeio: R$ 208.000,00Capital: R$ 27.000,00",235000.00,1.00,235000.00,T,E,"UNIVERSIDADE FEDERAL DE SANTA CATARINA",S
+9386,2180,,"Consultoria modelagem e análise de dados (Prof. Vinícius Halmenschlager) - Dedicação de 2 horas semanais",3776.00,1.00,3776.00,C,,,
+9386,2181,,"Consultoria análise econométrica (Prof. Gibran da Silva Teixeira) - Dedicação de 2 horas semanais",3776.00,1.00,3776.00,C,,,
+9386,2182,,"Consultora para analisar os dados isotópicos e de idade de toninhas (Profª. Silvina Botta) - Dedicação de 8 horas semanais",25920.00,1.00,25920.00,C,,,
+7906,1800,,"- As análises serão realizadas nos laboratórios da FURG envolvidos (LACOM e LAFQAT) que dispõem dos equipamentos necessários como contrapartida em horas de uso:LC-MS/MS: cromatografia líquida acoplada a espectrometria de massas em série; GC-MS: cromatografia gasosa acoplada a espectrometria de massas;- Análise de FTIR ATR, Análise de Fluorescência Sincrônica. Total de contrapartida: R$ 140.000,00 para o tempo total do projeto.",140000.00,1.00,140000.00,C,,,
+7906,1801,,"Despesas referente a bolsas, material de consumo e serviços de terceiros",596338.03,1.00,596338.03,T,E,"Companhia Riograndense de Saneamento",S
+7962,1804,,"Bolsa Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora para coordenador Pesquisador.",39600.00,1.00,39600.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+7987,1821,,"R$ 10.200,00 para despesas de capitalR$ 18.720,00 para despesas de custeioR$ 14.400,00 para bolsa de Apoio Técnico",43320.00,1.00,43320.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+8171,1849,"Prestação de Serviço","patrocínio - wdhouse",750.00,1.00,750.00,A,,,
+8311,1856,"Prestação de Serviço","Pagamento da nona parcela de 10% do valor contratado no ato da entrega / apresentação do relatório parcial",42832.65,1.00,42832.65,A,,,
+8016,1824,,"Recurso para despesas de custeio, capital e bolsas de iniciação científica",46000.00,1.00,46000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+8112,1835,,"Os recursos são depositados em conta corrente aberta pela Fapergs no Banrisul e administrada pelo coordenador, divididos em material permanente (40.000), material de consumo (5.000) e serviços de terceiros (5.000)",50000.00,1.00,50000.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+8135,1836,,"12 (doze) parcelas de R$ 3000,00",36000.00,1.00,36000.00,T,E,"Rede Nacional de Ensino e Pesquisa",S
+8135,1837,,"8 parcelas de R$ 1500,00",12000.00,1.00,12000.00,T,E,"Rede Nacional de Ensino e Pesquisa",S
+8135,1838,,"Total geral",26400.00,1.00,26400.00,T,E,"Rede Nacional de Ensino e Pesquisa",S
+8142,1839,,"Recurso destinado a realização das atividades do projeto.",290400.00,1.00,290400.00,T,E,"Superintendência do Porto do Rio Grande",N
+8311,1857,"Prestação de Serviço","Pagamento da oitava parcela de 10% do valor contratado no ato da entrega / apresentação do relatório parcial",42832.65,1.00,42832.65,A,,,
+8311,1858,"Prestação de Serviço","Pagamento da primeira parcela de 10% do valor contratado no ato da entrega / apresentação do relatório parcial",42832.65,1.00,42832.65,A,,,
+8171,1843,Inscrição,"inscriçoes no evento (152 pagantes)",2765.00,1.00,2765.00,A,,,
+8171,1844,"Prestação de Serviço","patrocínio - augen",500.00,1.00,500.00,A,,,
+8171,1845,"Prestação de Serviço","patrocínio - compasso",750.00,1.00,750.00,A,,,
+8171,1846,"Prestação de Serviço","patrocínio - scadi agro",500.00,1.00,500.00,A,,,
+8171,1847,"Prestação de Serviço","patrocínio - tecnicon",750.00,1.00,750.00,A,,,
+8171,1848,"Prestação de Serviço","patrocínio - vetorial",1500.00,1.00,1500.00,A,,,
+8311,1859,"Prestação de Serviço","Pagamento da quarta parcela de 10% do valor contratado no ato da entrega / apresentação do relatório parcial",42832.65,1.00,42832.65,A,,,
+8311,1860,"Prestação de Serviço","Pagamento da quinta parcela de 10% do valor contratado no ato da entrega / apresentação do relatório parcial",42832.65,1.00,42832.65,A,,,
+8216,1851,,"Recurso provenientes do EDITAL DE FOMENTO DE AÇÕES DE EXTENSÃO UNIVERSITÁRIA/ PROEXC -Nº 02/2020",8000.00,1.00,8000.00,I,,,
+8311,1855,"Prestação de Serviço","Pagamento da décima parcela de 10% do valor contratado no ato da assinatura do contrato e abertura da conta",42832.65,1.00,42832.65,A,,,
+8311,1861,"Prestação de Serviço","Pagamento da segunda parcela de 10% do valor contratado no ato da entrega / apresentação do relatório parcial",42832.65,1.00,42832.65,A,,,
+8311,1862,"Prestação de Serviço","Pagamento da sétima parcela de 10% do valor contratado no ato da entrega / apresentação do relatório parcial",42832.65,1.00,42832.65,A,,,
+8311,1863,"Prestação de Serviço","Pagamento da sexta parcela de 10% do valor contratado no ato da entrega / apresentação do relatório parcial",42832.65,1.00,42832.65,A,,,
+8344,1866,,Equipamento,2000.00,1.00,2000.00,I,,,
+8405,1877,,"Bolsas de Tutoria - Edital Nro. 04/2020 - Prograd",17600.00,1.00,17600.00,I,,,
+8447,1883,,"Material de custeio. Compra de reagentes para realização de análises de nutrientes, e de pigmentos fotossintéticos por cromatografia líquida de alta eficiência (HPLC). Compra de vidraria para realização de experimentos laboratoriais com microalgas.",17100.00,1.00,17100.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+8453,1884,,"Projeto aprovado pelo edital pesquisador Gaúcho de 2019 na faixa A.",27300.00,1.00,27300.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+8698,1915,,"Financiamento do Projeto",100000.00,1.00,100000.00,T,E,"Yara Brasil Fertilizantes - Rio Grande",N
+8478,1890,,"Pagamento de bolsas para desenvolvimento das ações do Movimento Coral em tempos de COVID-19",14400.00,1.00,14400.00,I,,,
+8629,1897,,"Bolsa mensal",400.00,1.00,400.00,C,,,
+8629,1898,,"O valor da bolsa é de R$ 400,00 (quatrocentos reais) mensais com a cargahorária de 12 (doze) horas semanais. A vigência da bolsa estará vinculada à duraçãodo calendário acadêmico emergencial da FURG. Informação que consta no EDITAL PROGRAD Nº 04 / 2020",400.00,1.00,400.00,T,E,"Universidade Federal do Rio Grande",S
+8674,1905,,"Fundos da Comunidade Européia ao projeto Atlantico convertido em Euros no dia 07/07/2020 na taxa de 6,05",386826.38,1.00,386826.38,T,E,"European Comission",S
+8707,1934,,"Recursos no total de USD 16000 para compra de equipamentos, pagamento de bolsas e despesas com viagens.",85000.00,1.00,85000.00,T,E,LACNIC,S
+8727,1941,,"Pagamento da Bolsa do monitor.",400.00,1.00,400.00,T,E,"Universidade Federal do Rio Grande",S
+8803,1957,,"Recurso da comunidade europeia",4000000.00,1.00,4000000.00,T,E,"European Comission",S
+9018,2027,"Prestação de Serviço","Marketing e divulgação das empresas patrocinadoras e apoiadoras do projeto em mídias, feiras e competições.",50.00,100.00,5000.00,A,,,
+8820,1959,,"Recurso proveniente de convênio com a universidade de Bergen da Noruega",1300360.00,1.00,1300360.00,T,E,"UNIVERSITETET I BERGEN",N
+8977,2016,,"Recurso pago pela Prefeitura Municipal do Rio Grande em forma de bolsas para Professores e Estudantes",99885.06,1.00,99885.06,T,E,"Prefeitura Municipal do Rio Grande - Secretaria de Município de Administração",S
+8986,2017,,Bolsa,400.00,1.00,400.00,I,,,
+8872,1968,,"Projeto aprovado no EDITAL EMERGENCIAL FAPERGS 06/2020 - CIÊNCIA E TECNOLOGIA NO COMBATE À COVID-19. TERMO DE OUTORGA: 20/2551-0000272-1",150000.00,1.00,150000.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+8874,1969,,"recursos para passagens e diárias",81490.00,1.00,81490.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+8899,1973,,"Financiamento de Custeio e capital",26875.00,1.00,26875.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+8900,1974,,"Saldo devolvido de projeto via FAURG",77118.00,1.00,77118.00,I,,,
+8918,1981,,"Demanda de Auxílio com deslocamento nos municípios abrangidos pelo projeto",400.00,1.00,400.00,I,,,
+8918,1982,,"Demanda de bolsista de extensão durante o semestre 2019/2",2400.00,1.00,2400.00,I,,,
+8924,1984,,"consumo e pessoa juridica",120000.00,1.00,120000.00,T,E,"Prefeitura Municipal do Rio Grande - Secretaria de Município de Administração",S
+8936,1986,Inscrição,"alunos de Pós Graduação",30.00,65.00,1950.00,A,,,
+8936,1987,Inscrição,"Inscrição estudantes",30.00,72.00,2160.00,A,,,
+8936,1988,Inscrição,"Inscrições professores/pesquisadores",50.00,60.00,3000.00,A,,,
+8936,1989,Inscrição,"Profissionais da Educação Básica",30.00,100.00,3000.00,A,,,
+8939,1990,,"Contemplado no Edital Universal 2014",24000.00,1.00,24000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+8967,1998,,"EDITAL DA ÁGUA - MOSAIC FERTILIZANTES",32000.00,1.00,32000.00,T,E,"Fundação de Apoio à Universidade do Rio Grande",N
+8974,2001,"Prestação de Serviço","Arrendamento de equipamentos do OpenLab",300.00,15.00,4500.00,A,,,
+8974,2002,Inscrição,"Incubação na modalidade virtual",2500.00,60.00,150000.00,A,,,
+8974,2003,"Prestação de Serviço","Prestação de consultoria",1000.00,5.00,5000.00,A,,,
+8974,2004,"Prestação de Serviço","Prestação de Consultoria/Assessorias",500.00,10.00,5000.00,A,,,
+8974,2005,"Prestação de Serviço","Taxa de contratação entre empresa incubada e FURG por permissão de uso de espaço laboratorial e/ou de equipamentos",500.00,10.00,5000.00,A,,,
+8974,2006,Inscrição,"Taxa de Incubação na modalidade empresa não residente",1500.00,60.00,90000.00,A,,,
+8975,2007,"Prestação de Serviço","Arrendamento de equipamentos do OpenLab",300.00,30.00,9000.00,A,,,
+8975,2008,"Prestação de Serviço","Prestação de consultoria",1000.00,30.00,30000.00,A,,,
+8975,2009,"Prestação de Serviço","Prestação de consultoria/assessoria",500.00,5.00,2500.00,A,,,
+8975,2010,"Prestação de Serviço","Taxa de contratação entre empresa incubada e FURG por permissão de uso de espaço laboratorial e/ou de equipamentos",500.00,30.00,15000.00,A,,,
+8975,2011,Inscrição,"Taxa de incubação na modalidade empresa residente",3671.70,60.00,220302.00,A,,,
+8976,2012,,"Contratação de Pessoa Jurídica - Adquirir licença de software de apoio ao gerenciamento da incubadora e monitoramento das empresas incubadas",17500.00,1.00,17500.00,C,,,
+8976,2013,,"Diárias (pessoal civil/militar)",2700.00,1.00,2700.00,T,E,"Serviço de Apoio às Micro e Pequenas Empresas do Estado do Rio Grande do Sul",N
+8976,2014,,"Outros serviços de terceiros/PJ",72300.00,1.00,72300.00,T,E,"Serviço de Apoio às Micro e Pequenas Empresas do Estado do Rio Grande do Sul",N
+8976,2015,"Prestação de Serviço","Ressarcimento FAURG",6521.68,1.00,6521.68,A,,,
+8987,2018,,Bolsa,400.00,1.00,400.00,I,,,
+8989,2019,,"Financiamento de recursos via CNPq de R$ 21.000,00 para subsidiar as ações do projeto.",0.00,1.00,0.00,T,N,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+9007,2022,,"Bolsa - Programa de Acompanhamento e Apoio Pedagógico ao Estudante",4200.00,1.00,4200.00,I,,,
+9011,2023,,"Bolsas para Professores Pesquisadores e Estudantes Bolsistas",30714.24,1.00,30714.24,T,E,"Prefeitura Municipal do Rio Grande - Secretaria de Município de Administração",S
+9015,2024,,"Descentralizada, por meio da celebração de convênios.",300000.00,1.00,300000.00,T,E,"Ministério da Ciência, Tecnologia e Inovação",S
+9059,2045,,"Este recurso se refere ao financiamento ni valor de E$ 202.535,00 (Duzentos e dois mil, quinentos e trincando euros) pela Comunidade Européia para projeto de pesquisa.O valor em reais considerou a cotação de E$ 1,00 = R$ 4,34 de 21/06/2019.",881027.00,1.00,881027.00,T,E,"Comunidade Européia",S
+9062,2046,,"CNPq PROCESSO Nº 420118/2018-7R$45.000,00 para recursos de custeioEdital Universal CNPq",45000.00,1.00,45000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+9073,2049,,"Equipe FURG + INPE capital e custeio + bolsas FURG",2213861.20,1.00,2213861.20,T,E,"Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",S
+9074,2050,,"Edital MCTI/CNPq 56/2013 -Produção de Biocombustíveis e Bioprodutos a partir de Microalgas",894808.63,1.00,894808.63,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+9075,2051,,"Recurso em espécie",2434530.00,1.00,2434530.00,T,E,"Governo do Estado do Rio Grande do Sul",S
+9076,2052,"Prestação de Serviço","Libra Terminal Rio AS",257914.68,1.00,257914.68,A,,,
+9076,2053,"Prestação de Serviço","Multi-Rio Operações Portuárias",257914.66,1.00,257914.66,A,,,
+9076,2054,"Prestação de Serviço","Triunfo Logística Ltda",257914.66,1.00,257914.66,A,,,
+9077,2055,,"Os recursos serão utilizados para compra de equipamentos e material permanente, pessoa jurídica, pessoa física e material de consumo",2766160.95,1.00,2766160.95,T,E,"Fundo Clima - MMA",S
+9097,2058,,"reagentes mais contrato de barco",3000.00,1.00,3000.00,I,,,
+9105,2059,"Prestação de Serviço","aluguel de bancas completas",1020.00,6.00,6120.00,A,,,
+9105,2060,"Prestação de Serviço","aluguel de bancas simples",870.00,13.00,11310.00,A,,,
+9105,2061,"Prestação de Serviço","espaço agricultura familiar",400.00,1.00,400.00,A,,,
+9105,2062,"Prestação de Serviço","espaços de alimentação",800.00,2.00,1600.00,A,,,
+9105,2063,,Patrocínio,50000.00,1.00,50000.00,T,E,"Superintendência do Porto do Rio Grande",S
+9105,2064,,"Recursos a captar junto a patrocinadores",50000.00,1.00,50000.00,T,E,"Patrocínio - recursos a captar",N
+9118,2065,,"Contrapartida da FURG exigida no edital",36745.51,1.00,36745.51,I,,,
+9118,2066,,"Secretaria de Desenvolvimento Econômico, Ciência e Tecnologia do RS (SDECT), Programa de Apoio aos Polos Tecnológicos, Edital 01/2017",681368.26,1.00,681368.26,T,E,"Secretaria do Desenvolvimento Econômico, Ciência e Tecnologia do RS",S
+9121,2067,,"PROJETO CHAMADA UNIVERSAL MCTI-CNPq NUMERO: 01/2016 PROCESSO: 420982/2016-7",53364.20,1.00,53364.20,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+9123,2068,,"Recurso referente ao edital 01/2017, denominado Auxílio Recém-doutor (ARD) da Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul (FAPERGS).",17000.00,1.00,17000.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+9124,2069,,"Recurso destinado à aquisição de capital e consumo.",29000.00,1.00,29000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+9132,2071,"Prestação de Serviço","Análise físico-química de alimentos",100.00,20.00,2000.00,A,,,
+9132,2072,"Prestação de Serviço","Análises de leite",280.00,2.00,560.00,A,,,
+9132,2073,"Prestação de Serviço","Análises microbiológicas",250.00,20.00,5000.00,A,,,
+9132,2074,"Prestação de Serviço","Realização de análises de solos",35.00,40.00,1400.00,A,,,
+9132,2075,"Prestação de Serviço","Realização de determinação de agrotóxicos em alimentos",200.00,10.00,2000.00,A,,,
+9141,2081,,"Ambiente de trabalho (salas de permanência dos Professores)",0.00,1.00,0.00,C,,,
+9141,2082,,"Revisão do Plano de Saneamento Básico do Município do Rio Grande",200000.00,1.00,200000.00,T,E,"Prefeitura Municipal do Rio Grande - Secretaria Municipal do Meio Ambiente",S
+9149,2085,"Prestação de Serviço","Realização de ensaios mecânicos",100.00,10000.00,1000000.00,A,,,
+9167,2086,"Prestação de Serviço","1a. Parcela - SMMA",155272.00,1.00,155272.00,A,,,
+9167,2087,"Prestação de Serviço","2a. Parcela - SMMA",169900.00,1.00,169900.00,A,,,
+9167,2088,"Prestação de Serviço","3a. Parcela - SMMA",181833.00,1.00,181833.00,A,,,
+9167,2089,"Prestação de Serviço","4a. Parcela - SMMA",194877.00,1.00,194877.00,A,,,
+9167,2090,"Prestação de Serviço","5a. Parcela - SMMA",208522.00,1.00,208522.00,A,,,
+9167,2091,"Prestação de Serviço","6a. Parcela - Rendimentos 2016",19412.88,1.00,19412.88,A,,,
+9167,2092,"Prestação de Serviço","7a. Parcela - Saldo final aplicação",3812.77,1.00,3812.77,A,,,
+9170,2093,,.,4131667.09,1.00,4131667.09,T,E,"Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",S
+9175,2094,,"Bolsa monitoria",1600.00,1.00,1600.00,I,,,
+9182,2095,"Prestação de Serviço","Fornecimento do documento de endosso institucional a projetos",4500.00,30.00,135000.00,A,,,
+9182,2096,"Prestação de Serviço","Guarda e Gestão de materiais arqueológicos resultantes do fornecimento de endosso institucional",5500.00,50.00,275000.00,A,,,
+9226,2103,"Prestação de Serviço","Equipamentos para Etapa Auxiliares 1 e 2",7000.00,1.00,7000.00,A,,,
+9226,2104,"Prestação de Serviço","Equipamentos para pesquisa e desenvolvimento",10000.00,1.00,10000.00,A,,,
+9226,2105,"Prestação de Serviço","Pagamento de parcela  referente as bolsas  contratadas na assintura do contrato",5460.00,10.00,54600.00,A,,,
+9226,2106,"Prestação de Serviço","Percentuais administrativos FURG (FAURG, REITORIA, UNIDADE)",11456.00,1.00,11456.00,A,,,
+9231,2107,,"Passagem aérea para estagio no México.",1500.00,1.00,1500.00,T,E,"Universidad Nacional Autónoma de México",S
+9239,2108,,"Passagem aérea e diárias",3000.00,1.00,3000.00,T,E,"Universidad Nacional Autónoma de México",S
+9252,2110,,"recurso destinada o material de consumo - reagentes, vidrarias, alimentos e material hidráulico 14.900material permanente - 2800,00 (moedor de carne e balança)",17700.00,1.00,17700.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+9257,2113,,"Proveniente de saldo do convenio entre a FURG, FAURG e a Sec. de Aquicultura e Pesca do Governo Federal",349512.14,1.00,349512.14,T,E,"Fundação de Apoio à Universidade do Rio Grande",S
+9259,2114,,"Recursos oriundos do edital H2020 - Blue GrowthTopic: BG-08-2018-2019: All Atlantic Ocean Research Alliance FlagshipSub-Topic: 2018-2019- Assessing the status of Atlantic marine ecosystemsRecursos alocados no total de EUR 260.160,00 e convertidos em Real usando a taxa de cambio de R$ 4,43 em 2/5/2019.Valor total do projeto, incluindo os ressarcimenos: EUR 325.200.00 = R$ 1.440.636,00",1440636.00,1.00,1440636.00,T,E,"European Comission",N
+9343,2156,,"2 bolsas mensais de quatrocentos reais pagas pela PROGEP",9600.00,1.00,9600.00,I,,,
+9361,2158,,"Recusros de custeio e permanente",537886.50,1.00,537886.50,T,E,"Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",S
+9362,2159,,"Edital Pesquisador Gaúcho FAPERGS-2017",30000.00,1.00,30000.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+9366,2162,,Bolsa,2500.00,1.00,2500.00,T,E,"Serviço de Apoio às Micro e Pequenas Empresas do Estado do Rio Grande do Sul",N
+9366,2163,,"Contratação de pessoa física",21000.00,1.00,21000.00,I,,,
+9366,2164,,"Hora de professores",11000.00,1.00,11000.00,C,,,
+9366,2165,,"Material de Consumo",3220.00,1.00,3220.00,T,E,"Serviço de Apoio às Micro e Pequenas Empresas do Estado do Rio Grande do Sul",N
+9366,2166,,"Outras despesas",1800.00,1.00,1800.00,T,E,"Serviço de Apoio às Micro e Pequenas Empresas do Estado do Rio Grande do Sul",N
+9366,2167,,"Serviços de Terceiros (pessoa jurídica)",17700.00,1.00,17700.00,T,E,"Serviço de Apoio às Micro e Pequenas Empresas do Estado do Rio Grande do Sul",N
+9366,2168,,"Taxa FAURG",4019.12,1.00,4019.12,I,,,
+9366,2169,,"Utilização de equipamentos",2053.00,1.00,2053.00,C,,,
+9280,2128,,"Recursos PROAP",276787.19,1.00,276787.19,I,,,
+9280,2129,,"Ressarcimento FAURG",24177.12,1.00,24177.12,I,,,
+9287,2130,,"bolsa de pós doutorado",54000.00,1.00,54000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+9287,2131,,"infraestrutura basica do laboratorio",250000.00,1.00,250000.00,I,,,
+9288,2132,,"Recurso do projeto Pesquisador Gaucho 2017",42000.00,1.00,42000.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+9288,2133,,"taxa de bancada de bolsa produtividade do coordenador",36000.00,1.00,36000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+9298,2134,,"Valor referente a elaboração de relatórios técnicos",43668.00,1.00,43668.00,T,E,"Prefeitura Municipal do Rio Grande - Secretaria de Município de Administração",S
+9313,2138,,"Recursos para a administração da Unidade EMBRAPII",720000.00,1.00,720000.00,I,,,
+9317,2139,,"Os valores recebidos serão utilizados para a compra de novos equipamentos para o projeto.",1670084.80,1.00,1670084.80,T,E,"Superintendência do Porto do Rio Grande",S
+9317,2140,,"Recurso destinado ao Programa de Monitoramento, compra de boias meteoceanográficas, cruzeiros de monitoramento, experimento com traçadores, contratação de equipe.",7512019.00,1.00,7512019.00,T,E,"Superintendência do Porto do Rio Grande",S
+9323,2145,,"Recurso destinado a material permanente e custeio.",6259225.11,1.00,6259225.11,T,E,"Ministério da Ciência, Tecnologia e Inovação",S
+9323,2146,,"Rendimentos de Aplicação Financeira do Saldo do Projeto",130000.00,1.00,130000.00,T,E,"Fundação de Apoio à Universidade do Rio Grande",N
+9330,2155,,"Valores em Dólar - financiamento das atividades de pesquisa",14440.00,1.00,14440.00,T,E,"Centro de Estudos Olímpicos do Comitê Olímpico Internacional",N
+9370,2170,"Prestação de Serviço","Funbio/GEF Mar",91400.00,1.00,91400.00,A,,,
+9371,2171,,"Recurso destinado as despesas para a execução do projeto.",1025650.00,1.00,1025650.00,T,E,"Office of Naval Research",S
+9373,2172,,"Despesas de capital e custeio",11300.00,1.00,11300.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+9386,2173,,"Coordenador Geral do Projeto (Prof. Eduardo R. Secchi) - Dedicação de 4 horas semanais",30000.00,1.00,30000.00,C,,,
+9386,2174,,"Consultor estatistico (Prof. Paul G. Kinas) - Dedicação de 2 horas semanais",32000.00,1.00,32000.00,C,,,
+9386,2175,,"Consultoria Pesca (Prof. Luis Gustavo Cardoso) - Dedicação de 8 horas semanais",28320.00,1.00,28320.00,C,,,
+9386,2176,,"Recurso destinado à ações de pesquisa",1947520.00,1.00,1947520.00,T,E,"Fundo Brasileiro para a Biodiversidade",N
+9386,2177,,"Técnico de Laboratório para triagem de amostras biológicas (Wagner Vaz) - Dedicação de 20 horas semanais até agosto de 2019",45360.00,1.00,45360.00,C,,,
+9386,2178,,"Coordenadora da área econômica (Prof. Patrízia Abdallah) - Dedicação de 8 horas semanais",48000.00,1.00,48000.00,C,,,
+9386,2179,,"Aluno de Graduação para realizar a coleta e organização de dados primários (bolsista de Iniciação Científica) - Dedicação de 6 horas semanais",3000.00,1.00,3000.00,C,,,
+9386,2183,,"Técnico de Laboratório para monitoramento do desembarque e processamento de amostras biológicas (peixes) (Márcio Freire)  - Dedicação de 20 horas semanais",40800.00,1.00,40800.00,C,,,
+9386,2184,,"Técnico de Laboratório para monitoramento do desembarque e processamento de amostras biológicas (peixes) (Márcio Freire) - Dedicação de 10 horas semanais entre março e agosto de 2019",8160.00,1.00,8160.00,C,,,
+9386,2185,,"Técnico de Laboratório para monitoramento do desembarque e processamento de amostras biológicas (peixes) (Márcio Freire) - Dedicação de 2 horas semanais a partir de setembro de 2019",2992.00,1.00,2992.00,C,,,
+9386,2186,,"Consultoria Pesca (Prof. Luis Gustavo Cardoso) - Dedicação de 12 horas semanais a partir de março de 2019",48144.00,1.00,48144.00,C,,,
+9386,2187,,"Coordenador Geral do Projeto (Prof. Eduardo R. Secchi) - 6 horas semanais a partir de março de 2019",51000.00,1.00,51000.00,C,,,
+9386,2188,,"Técnico de Laboratório para triagem de amostras biológicas (Wagner Vaz) - Dedicação de 10 horas semanais a partir de setembro de 2019",11880.00,1.00,11880.00,C,,,
+9386,2189,,"Consultor para analisar os dados do PREPS (Prof. Rafael Sperb) - Dedicação de 4horas semanais em 26 meses (exceto de março a agosto de 2019)",52000.00,1.00,52000.00,C,,,
+9390,2190,,"Bolsa Edital EPEC/2018",4800.00,1.00,4800.00,I,,,
+9395,2191,,"Bolsa Edital EPEC/2017",3200.00,1.00,3200.00,I,,,
+9402,2195,,"Custeio e capital aprovados para financiamento do projeto",107212.00,1.00,107212.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+9404,2196,,"Material de consumo",7852.76,1.00,7852.76,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+9404,2197,,"Material permanente",38247.24,1.00,38247.24,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+9404,2198,,"Serviços de terceiros",900.00,1.00,900.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+9405,2199,,"Custos com pessoal, reuniões, viagens, diárias, e recursos materiais,",3392110.00,1.00,3392110.00,T,E,"Ministério do Comércio Exterior, Indústria e Serviços da Alemanha",S
+9431,2200,,"Recursos para a administração da Unidade EMBRAPII",720000.00,1.00,720000.00,I,,,
+9464,2203,,"Recurso para cobrir as despesas com pessoal (para aplicação dos quetionários, realização das entrevistas e digitação dos dados), com deslocamento para o município, com alimentação da equipe de pesquisadores e com material de consumo.",16000.00,1.00,16000.00,T,E,"Prefeitura Municipal de São José do Norte - Secretaria Municipal da Saúde e Assistência Social",S
+9470,2204,,"Material de consumo; Diárias; Passagens e despesas; Serviço de terceiros pessoa física;Serviços técnicos profissionais; Serviço de terceiro pessoa jurídica; Serviços gráficos e editoriais; Auxilio financeiro a estudante; Equipamento e material permanente;Máquinas, instalações e serviços de escritório; Obrigações tributárias e contributivas.",123427.17,1.00,123427.17,I,,,
+9472,2205,Inscrição,"Apresentação de trabalhos - demais membros da sociedade",20.00,155.00,3100.00,A,,,
+9472,2206,Inscrição,"Apresentação de trabalhos - professor universitário",50.00,50.00,2500.00,A,,,
+9472,2207,Inscrição,Ouvintes,0.00,80.00,0.00,A,,,
+9472,2208,,"Total de despesas correntes",3569.00,1.00,3569.00,I,,,
+9486,2209,,"Material permanente - Equipamentos já disponíveis no laboratório de micobactérias da Universidade Federal do Rio Grande.",0.00,1.00,0.00,I,,,
+9486,2210,,"Os materiais permanentes e de consumo são disponibilizados para o diagnóstico da tuberculose conforme demanda, não acarretando custos adicionais à unidade educacional envolvida.",0.00,1.00,0.00,T,N,"Hospital Universitário Miguel Riet Correa Jr",S
+9495,2211,"Prestação de Serviço","Homogeneizador de Alta Pressão",200.00,200.00,40000.00,A,,,
+9495,2212,"Prestação de Serviço","Serviço de Microscopia Eletrônica de Transmissão",200.00,400.00,80000.00,A,,,
+9495,2213,"Prestação de Serviço","Preparo de amostras para a utilização nas técnicas de microscopia",50.00,60.00,3000.00,A,,,
+9495,2214,"Prestação de Serviço","Serviço de Difração de Raios-X: obtenção de dados utilizando a técnica para amostras sólidas ou em pó",120.00,500.00,60000.00,A,,,
+9495,2215,"Prestação de Serviço","Serviço de Microscopia Confocal",200.00,100.00,20000.00,A,,,
+9495,2216,Inscrição,"Serviço de Microscopia Eletrônica de Varredura e Espectroscopia de Energia Disersiva",200.00,400.00,80000.00,A,,,
+9499,2218,,"Recurso destinado para as despesas na execução do projeto.",1073200.00,1.00,1073200.00,T,E,"Prefeitura Municipal do Rio Grande - Gabinete de Programas e Projetos Especiais",S
+9501,2220,,"Recurso destinado a execução do projeto, para compras de material de consumo, pagamento de pessoal, diárias, passagens, despesas com embarcações e saídas de campo.",667604.00,1.00,667604.00,T,E,"Superintendência do Porto do Rio Grande",N
+9502,2221,,"Pagamento de Bolsas",38400.00,1.00,38400.00,I,,,
+9522,2223,,"Recurso da PROEXC para Programa de Rádio sobre Extensão Universitária",40000.00,1.00,40000.00,I,,,
+9582,2224,,"Recurso destinado as despesas e custos necessários para a execução do projeto.",130200.00,1.00,130200.00,T,E,"Prefeitura Municipal de São José do Norte - Secretaria Municipal da Saúde e Assistência Social",S
+9601,2228,,"Pagamento de Bolsas",8400.00,1.00,8400.00,I,,,
+9601,2229,,"Pagamento de bolsas para desenvolvimento das ações do Movimento Coral em tempos de COVID-19",14400.00,1.00,14400.00,I,,,
+9625,2233,,"Valor a ser pago pela empresa pelo trabalho",65813.76,1.00,65813.76,T,E,"STER ENGENHARIA LTDA",N
+9626,2234,,"Serviços de terceiros, Material de consumo, Passagens, Diarias,Bolsas",322550.00,1.00,322550.00,T,E,"Prefeitura Municipal do Rio Grande - Secretaria Municipal do Meio Ambiente",S
+9627,2235,,"Recurso para bolsas DTI",196000.00,1.00,196000.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+9627,2236,,"Recursos obtidos na chamada Chamada CNPq/Capes/FAPs/BC-Fundo Newton nº 15/2016 - Programa de Pesquisa Ecológica deLonga Duração - PELD",197684.00,1.00,197684.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+9628,2237,,"Recurso destinados para a realização do projeto INCT Mar COI",7195600.00,1.00,7195600.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+9642,2239,,"Recurso destinado à realização do monitoramento ambiental do Porto do Rio Grande",2384299.86,1.00,2384299.86,T,E,"Superintendência do Porto do Rio Grande",N
+9672,2245,,"As análises serão realizadas nos laboratórios da FURG envolvidos (LACOM e LARCO) que dispõem dos equipamentos necessários como contrapartida em horas de uso:LC-MS/MS: cromatografia líquida acoplada a espectrometria de massas em série: R$ 50.000,00; GC-MS: cromatografia gasosa acoplada a espectrometria de massas: R$ 50.000,00;- Estrutura dos Laboratórios da EQA envolvidos e viaturas para coleta das amostras: R$ 40.000,00 Total de contrapartida: R$ 140.000,00",140000.00,1.00,140000.00,C,,,
+9672,2246,,"Diárias   R$ 0,00    Bolsas   R$ 161.040,00   Material de Consumo   R$ 107.300,00   Passagens   R$ 0,00   Outros Serviços de Terceiros - Pessoa Física   R$ 0,00   Outros Serviços de Terceiros - Pessoa Jurídica   R$ 80.000,00   Encargos Sociais - 20% sobre Serv. Terc. Pes. Física   R$ 0,00   Obras e Instalações   R$ 0,00 Equipamento e Material Permanente   R$ 19.820,00   Ressarcimento FAURG (*) 5%   R$ 21158,62   Ressarcimento FURG (*) 4%   R$ 16926,90   Ressarcimento Unidade (*) 4% EQA - Escola de Química e Alimentos   R$ 16.926,90TOTAL GERAL   R$ 423.172,42",423172.36,1.00,423172.36,T,E,"Companhia Riograndense de Saneamento",S
+9677,2247,,"Recurso oriundo da PMRG para financiar a execução do projeto",52873.56,1.00,52873.56,T,E,"Prefeitura Municipal do Rio Grande - Secretaria de Município de Administração",S
+9678,2250,,"Auxílio para a realização de Projeto de Pesquisa",10000.00,1.00,10000.00,T,E,"RoboCup Brasil",N
+9679,2251,,"Financiamento de projeto P&D.",3317324.93,1.00,3317324.93,T,E,"Petróleo Brasileiro S/A.",S
+9683,2252,,"02 cotas de bolsas de R$ 400,00 cada",800.00,1.00,800.00,I,,,
+9702,2256,,"recurso de patrocinio",200000.00,1.00,200000.00,T,E,"A DEFINIR",N
+9704,2257,"Prestação de Serviço","Recebimento de recursos mediante a realização de ensaios e serviços no escopo do projeto. A cada prestação de serviço será emitida NF por parte da FAURG. O valor de arrecadação do projeto é uma estimativa durante sua vigência.",100000.00,1.00,100000.00,A,,,
+9706,2258,,"Aporte financeiro de investimento em P&D da empresa.",160000.00,1.00,160000.00,T,E,"Refinaria de Petróleo Rio Grandense",N
+9706,2259,,"Recursos EMBRAPII",106666.00,1.00,106666.00,T,E,"Empresa Brasileira de Pesquisa Agropecuária",N
+9710,2260,,"2500 USD via edital de fomento",12500.00,1.00,12500.00,T,E,"Institute of Electrical and Electronic Engineers",N
+9758,2262,,"Bolsas de tutoria",6000.00,1.00,6000.00,I,,,
+9791,2263,,"O recurso para este projeto foi aprovado em 2017 e inclui compra de equipamentos e material permanente",10000.00,1.00,10000.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+9797,2264,,"Ressarcimento Fundação de Apoio",21256.80,1.00,21256.80,I,,,
+9797,2265,,"Valor para custear execução projeto Fase I.",294400.00,1.00,294400.00,T,E,"Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",S
+9797,2266,,"Valor para custear execução projeto Fase II",109480.00,1.00,109480.00,T,E,"Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",S
+9798,2267,,"Edital de Chamada Pública n°01/2018/PRH-ANP",3777228.00,1.00,3777228.00,T,E,"Agência Nacional do Petróleo - Programa de Recursos Humanos",S
+9798,2268,,"Taxa de Ressarcimento à FAURG.",37768.46,1.00,37768.46,T,E,"Agência Nacional do Petróleo - Programa de Recursos Humanos",S
+9806,2269,,"Bolsas de tutoria",3600.00,1.00,3600.00,I,,,
+9818,2270,,"2 bolsas mensais de quatrocentos reais pagas pela PROGEP",9600.00,1.00,9600.00,I,,,
+9823,2271,,"Recurso Oriundo de Ação Civil Público a ser aplicado exclusivamente nos processo de gestão ambiental do Porto do Rio Grande.",886386.80,1.00,886386.80,T,E,"Superintendência do Porto do Rio Grande",S
+9823,2272,,"Recurso oriundo de fundo gerado por ação civil pública para fins de aplicação exclusiva nos processos de gestão ambiental do Porto do Rio Grande.",886386.80,1.00,886386.80,T,E,"Superintendência do Porto do Rio Grande",S
+9852,2273,,"Contração de Pessoa Jurídica: Contratação da Universidade Federal do Rio Grande - FURG (profissionais e alunos pesquisadores) através da interveniência da Fundação de Apoio à Universidade do Rio Grande (FAURG), para execução do projeto.  Valor: R$ 148.010,00Material de consumo (Serviço Pessoa Jurídica): Aquisição de material gráfico (banners, plotters, flyers, cartilhas, crachás, cartazes, adesivos, placas) e de serigrafia (camisetas e coletes). Valor: R$ 11.990,00",320000.00,1.00,320000.00,T,E,"Prefeitura Municipal do Rio Grande - Gabinete de Programas e Projetos Especiais",S
+9855,2274,,"Bens de capital, consumíveis, bolsas, diárias, passagens e taxas.",195130.62,1.00,195130.62,T,E,"Companhia Riograndense de Saneamento",S
+9933,2289,,"Recursos necessários para a realização do projeto",5500584.21,1.00,5500584.21,T,E,"TRIDENT ENERGY DO BRASIL LTDA",N
+9865,2277,,"Destinado a compra de material permanente, material de consumo, despesa de transporte e serviços de terceiros.",59977.95,1.00,59977.95,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+9897,2280,,"CUSTEIO - R$ 14.923,50CAPITAL - R$ 18.830,00",33753.50,1.00,33753.50,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",S
+9905,2282,"Prestação de Serviço","Arrecadação com as saídas das embarcações",920652.16,1.00,920652.16,A,,,
+9905,2283,,"Contrapartida FURG",6298275.00,1.00,6298275.00,C,,,
+9912,2284,,"Montante aprovado destinado a execução do projeto.",1139218.99,1.00,1139218.99,T,E,"Superintendência do Porto do Rio Grande",S
+9918,2285,,"R$ 85000,00 para capitalR$ 24.000,00 para custeio",109000.00,1.00,109000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",N
+9918,2286,,"Recurso para as rubricas capital e custeio",70000.00,1.00,70000.00,T,E,"Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",N
+9924,2287,,"R$ 16.355,21 - CapitalR$ 8.844,79 - CusteioR$ 4.800,00 - Bolsa de IC",30000.00,1.00,30000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+9932,2288,,"recurso aprovado no edital universal CNPq, versão 2018",107000.00,1.00,107000.00,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+9946,2291,"Prestação de Serviço","Execução Projeto Curso de Formação de Gestores Escolares de Morro Redondo",15000.00,1.00,15000.00,A,,,
+9948,2292,,"Os recursos previstos no projeto são R$ 38.279,53 para custeio, R$ 29.390,00 para material permanente, e 51.840,00 para 06 bolsas Iniciação ao Extensionismo (IEX).",119509.53,1.00,119509.53,T,E,"Conselho Nacional de Desenvolvimento Científico e Tecnológico",S
+9952,2293,,"Recurso será pago pela Yara, através de Ordem de Compra emitida à FAURG.",13920.00,1.00,13920.00,T,E,"Yara Brasil Fertilizantes - Porto Alegre",N
+9969,2295,,"ref. TED (D.O.U nº 244, de 20.12.2018, seção 3, pag. 23) COMANDO DO PESSOAL DE FUZILEIROS NAVAISCENTRO DE INSTRUÇÃO ALMIRANTE SYLVIO DE CAMARGOEXTRATO DE CONTRATON. Termo de Execução Descentralizada. Termo de Contrato n 32100/2018-03/00. UnidadeGestora Repassadora: CENTRO DE INSTRUÇÃO ALMIRANTE SYLVIO DE CAMARGO. UnidadeGestora Recebedora: UNIVERSIDADE FEDERAL DO RIO GRANDE. CNPJ n 94.877.586/0001-10. Objeto: realização de atividades referente a curso de Especialização em Gestão deOperação e Logística.",252637.85,1.00,252637.85,T,E,"CENTRO DE INSTRUÇÃO ALMIRANTE SYLVIO DE CAMARGO",S
+9969,2296,,TED,252637.85,1.00,252637.85,T,E,"CENTRO DE INSTRUÇÃO ALMIRANTE SYLVIO DE CAMARGO",S
+9978,2297,,"Outros Serviços de Terceiros - Pessoa Física",2000.00,1.00,2000.00,I,,,
+9990,2302,,"Recurso Palestra",468.00,1.00,468.00,I,,,
+10052,2306,,"Recurso da Emenda parlamentar do Deputado Marcon PT/RS",200000.00,1.00,200000.00,T,E,"Ministério da Educação",S
+10053,2307,,"emenda parlamentar",300000.00,1.00,300000.00,T,E,"Ministério da Educação",S
+10060,2308,,"Bolsa no valor de R$ 400,00 mensais, pagas ao estagiário.",9600.00,1.00,9600.00,T,E,"Superintendência do Porto do Rio Grande",S
+10062,2309,,"Disponibilização das instalações do CRAM",0.00,1.00,0.00,I,,,
+10062,2310,,"Disponibilização das instalações do CRAM localizadas junto ao Museu Oceanográfico para a eleaboração e desenvolvimento do projeto.",0.00,1.00,0.00,C,,,
+10062,2311,,"Valor destinado a manutenção dos serviços do CRAM-FURG em prontidão.",2494535.56,1.00,2494535.56,T,E,"Superintendência do Porto do Rio Grande",S
+10084,2315,,"Referente a dois meses e quinze dias de bolsa para monitor, para despesas internet, equipamentos, entre outras despesas.",1000.00,1.00,1000.00,T,E,"Universidade Federal do Rio Grande",S
