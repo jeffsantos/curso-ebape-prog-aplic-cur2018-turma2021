@@ -3,10 +3,10 @@ mylist = [0, 1, 2, 3, 4]
 for i in mylist:
     print(i)
 
-names = ["Gabriel", "Giorgian", "Bruno"]
+craques = ["Gabriel", "Giorgian", "Bruno"]
 
-for craques in names:
-    print(craques)
+for craque in craques:
+    print(craque)
 
 
 for i in range(5):
