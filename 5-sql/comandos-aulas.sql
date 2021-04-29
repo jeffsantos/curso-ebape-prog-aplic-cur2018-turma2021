@@ -1,3 +1,6 @@
+
+-- AULA 01
+
 CREATE TABLE flights (
     id SERIAL PRIMARY KEY,
     origin VARCHAR NOT NULL,
@@ -35,6 +38,26 @@ SELECT COUNT(duration) FROM flights;
 
 SELECT COUNT(duration) FROM flights WHERE origin = 'New York';
 
-SELECT * FROM flights WHERE origin IN ('New York', 'Lima';
+SELECT * FROM flights WHERE origin IN ('New York', 'Lima');
 
 SELECT * FROM flights WHERE origin LIKE 'New%';
+
+-- AULA 02
+
+SELECT * FROM flights LIMIT 3;
+
+SELECT * FROM flights ORDER BY duration ASC;
+
+SELECT origin, COUNT(*) FROM flights GROUP BY origin;
+
+SELECT origin, COUNT(*) FROM flights GROUP BY origin HAVING COUNT(*) > 1;
+
+UPDATE flights
+  SET duration = 430
+  WHERE origin = 'New York'
+  AND destination = 'London';
+
+DELETE FROM flights WHERE origin = 'New York';
+
+-- DROP TABLE fligts;
+
