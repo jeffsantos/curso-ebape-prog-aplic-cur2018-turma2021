@@ -1,5 +1,6 @@
-
+------------------------------------------------------------------------------
 -- AULA 01
+------------------------------------------------------------------------------
 
 CREATE TABLE flights (
     id SERIAL PRIMARY KEY,
@@ -42,7 +43,9 @@ SELECT * FROM flights WHERE origin IN ('New York', 'Lima');
 
 SELECT * FROM flights WHERE origin LIKE 'New%';
 
+------------------------------------------------------------------------------
 -- AULA 02
+------------------------------------------------------------------------------
 
 SELECT * FROM flights LIMIT 3;
 
@@ -61,3 +64,43 @@ DELETE FROM flights WHERE origin = 'New York';
 
 -- DROP TABLE fligts;
 
+------------------------------------------------------------------------------
+-- AULA 03 (JOINS)
+------------------------------------------------------------------------------
+
+SELECT name, duration
+FROM passengers
+JOIN flights ON passengers.flight_id = flights.id;
+
+SELECT name, duration
+FROM flights
+JOIN passengers ON flights.id = passengers.flight_id;
+
+-- alias
+SELECT p.id id_passengers, f.id id_flights
+FROM passengers p
+JOIN flights f ON p.flight_id = f.id;
+
+-- 2 joins simultâneos
+SELECT * 
+FROM flights 
+JOIN locations ori on ori.id = flights.origin_id
+JOIN locations dest on dest.id = flights.destination_id;
+
+SELECT ori.name origin, dest.name destination, duration
+FROM flights 
+JOIN locations ori on ori.id = flights.origin_id
+JOIN locations dest on dest.id = flights.destination_id;
+
+-- left join
+
+SELECT flights.id, name
+FROM flights LEFT JOIN passengers on passengers.flight_id = flights.id
+ORDER BY id;
+
+-- Todos juntos
+SELECT ori.name origin, dest.name destination, passengers.name 
+FROM flights 
+INNER JOIN passengers on passengers.flight_id = flights.id
+INNER JOIN locations ori on ori.id = flights.origin_id
+INNER JOIN locations dest on dest.id = flights.destination_id;
