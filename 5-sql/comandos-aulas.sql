@@ -104,3 +104,20 @@ FROM flights
 INNER JOIN passengers on passengers.flight_id = flights.id
 INNER JOIN locations ori on ori.id = flights.origin_id
 INNER JOIN locations dest on dest.id = flights.destination_id;
+
+
+------------------------------------------------------------------------------
+-- AULA 04 (Subqueries)
+------------------------------------------------------------------------------
+
+SELECT ori.name origin, dest.name destination, passengers.name 
+FROM flights f
+INNER JOIN passengers on passengers.flight_id = f.id
+INNER JOIN locations ori on ori.id = f.origin_id
+INNER JOIN locations dest on dest.id = f.destination_id
+WHERE duration > 400
+AND f.id IN (
+	SELECT flight_id
+	FROM passengers
+	GROUP BY flight_id HAVING COUNT(*) > 1
+)
