@@ -121,3 +121,20 @@ AND f.id IN (
 	FROM passengers
 	GROUP BY flight_id HAVING COUNT(*) > 1
 )
+
+------------------------------------------------------------------------------
+-- AULA 05 (Datas e Timestamp)
+------------------------------------------------------------------------------
+
+CREATE TABLE Professores (
+	id	SERIAL PRIMARY KEY,
+	nome VARCHAR NOT NULL,
+	datanascimento	TIMESTAMP NOT NULL,
+	id_bairro	INTEGER NOT NULL
+);
+
+INSERT INTO professores (nome, datanascimento, id_bairro) VALUES ('Jefferson', '1976-11-28 00:00:00', 1);
+
+SELECT NOW() - datanascimento FROM professores;
+
+SELECT DATE_PART('year', NOW()) - DATE_PART('year', datanascimento) FROM professores;
