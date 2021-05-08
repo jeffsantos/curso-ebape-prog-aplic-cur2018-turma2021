@@ -107,8 +107,20 @@ INNER JOIN locations dest on dest.id = flights.destination_id;
 
 
 ------------------------------------------------------------------------------
--- AULA 04 (Subqueries)
+-- AULA 04 (Dinstinc e Subqueries)
 ------------------------------------------------------------------------------
+
+SELECT DISTINCT ori.name origin, dest.name destination
+FROM flights 
+LEFT OUTER JOIN passengers on passengers.flight_id = flights.id
+INNER JOIN locations ori on ori.id = flights.origin_id
+INNER JOIN locations dest on dest.id = flights.destination_id;
+
+
+SELECT flight_id FROM passengers; 
+
+SELECT flight_id FROM passengers GROUP BY flight_id HAVING COUNT(*) > 1;
+
 
 SELECT ori.name origin, dest.name destination, passengers.name 
 FROM flights f
