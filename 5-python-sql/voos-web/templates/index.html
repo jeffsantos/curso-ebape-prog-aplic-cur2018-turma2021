@@ -1,0 +1,20 @@
+{% extends "layout.html" %}
+
+{% block heading %}
+    Flights
+{% endblock %}
+
+{% block body %}
+
+    <form action="">
+        <div class="form-group">
+            <select class="form-control" name="flight_id">
+                {% for flight in flights %}
+                    <option value="{{ flight.id }}">De {{ flight.origin }} para {{ flight.destination}}</option>
+                {% endfor %}    
+            </select>           
+        </div>
+
+    </form>
+
+{% endblock %}
