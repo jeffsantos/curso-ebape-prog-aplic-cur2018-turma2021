@@ -20,6 +20,20 @@ def index():
 
     return render_template("index.html", flights=flights)
 
-@app.route("/book", methdos=["POST"])
+@app.route("/book", methods=["POST"])
 def book():
-    return
+    passageiro = request.form.get("name")
+
+    if passageiro == "":
+        return render_template("error.html", message="Passageiro precisa ser informado!!")
+
+    try:
+        voo = int(request.form.get("flight_id"))
+    except ValueError:
+        return render_template("erro.html", message="Voo inválido!!")
+
+    db.execute("INSERT INTO passengers (name, flight_id) VALUES (:name, :flight_id)",
+                {"name":passageiro, "flight_id":voo})
+    db.commit()
+ 
+    return render_template("success.html")
